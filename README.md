@@ -1,10 +1,12 @@
-🎯 Quiz & Number Guessing Game - Python Project
+# 🎯 Quiz & Number Guessing Game - Python Project
+
+Welcome to my **Python-based Interactive Game Project**! This repository contains two fun and beginner-friendly games:
 1. 🧠 **Quiz Game** – Answer questions and test your knowledge!
 2. 🔢 **Number Guessing Game** – Try to guess the computer-generated number!
 
 ---
 
-🚀 Project Goals
+## 🚀 Project Goals
 
 - Create a **Quiz Game** that:
   - Asks multiple questions
@@ -18,9 +20,12 @@
   - Tracks the number of attempts
 
 ---
- 🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 
 - Python 3.x
 - Built-in `random` module (for number generation)
 - Terminal/CLI for user interaction
+
+---
 
